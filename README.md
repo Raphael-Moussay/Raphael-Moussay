@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Raphaël !
 
-🎓 Étudiant en 3ᵉ année à **Polytech Sorbonne**, spécialité **Robotique**  
+🎓 Étudiant en 4ᵉ année à **Polytech Sorbonne**, spécialité **Robotique**  
 🤖 Passionné par la mécatronique, le code, et les projets DIY  
 📍 Basé à Paris | Ouvert aux stages & projets techniques
 
@@ -60,7 +60,7 @@
 ## 📫 Me contacter
 
 - [LinkedIn](www.linkedin.com/in/raphael-moussay) 
-- ✉️ raphael.moussay@gmail.com
+- ✉️ contact@raphael-moussay.fr
 
 ---
 
